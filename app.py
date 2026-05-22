@@ -8,8 +8,8 @@ st.info("7 Day Intensive Hands-on Workshop")
 st.write("Sornrak")
 st.write("##### Day 1: การจัดการข้อมูลพื้นฐานและโครงสร้างข้อมูลด้วย Python")
 
-if st.button("การทำความสะอาดข้อมูล"):
-    st.switch_page("pages/app1_cute_full_clean_kie.py")
+if st.button("full_clean_kie"):
+    st.switch_page("pages/cute_full_clean_kie.py")
 elif st.button("การแปลงข้อมูล"):
     st.switch_page("pages/app1_discount_calc.py")
 elif st.button("การวิเคราะห์ข้อมูลเชิงสำรวจ"):
