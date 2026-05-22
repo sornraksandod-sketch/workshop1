@@ -7,6 +7,7 @@ st.write("### Boot Camp: Data Science and Machine Learning")
 st.info("7 Day Intensive Hands-on Workshop")
 st.write("Sornrak")
 st.write("##### Day 1: การจัดการข้อมูลพื้นฐานและโครงสร้างข้อมูลด้วย Python")
+st.markdown(''':rainbow[Sornrak] ''')
 
 if st.button("full_clean_kie"):
     st.switch_page("pages/cute_full_clean_kie.py")
