@@ -10,8 +10,8 @@ st.write("##### Day 1: การจัดการข้อมูลพื้น
 
 if st.button("full_clean_kie"):
     st.switch_page("pages/cute_full_clean_kie.py")
-elif st.button("การแปลงข้อมูล"):
-    st.switch_page("pages/app1_discount_calc.py")
+elif st.button("simple_clean_cute_kie"):
+    st.switch_page("pages/simple_clean_cute_kie.py")
 elif st.button("การวิเคราะห์ข้อมูลเชิงสำรวจ"):
     st.switch_page("pages/app1_discount_calc.py")    
 elif st.button("การพยากรณ์ยอดขายแบบง่าย"):
