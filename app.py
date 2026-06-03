@@ -17,3 +17,5 @@ elif st.button("simple_clean"):
     st.switch_page("pages/simple_clean_kie.py")    
 elif st.button("transform"):
     st.switch_page("pages/transform_app.py")  
+elif st.button("EDA APP"):
+    st.switch_page("pages/EDA_app.py")  
