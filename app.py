@@ -15,4 +15,5 @@ elif st.button("simple_clean_cute_kie"):
     st.switch_page("pages/simple_clean_cute_kie.py")
 elif st.button("simple_clean_kie"):
     st.switch_page("pages/simple_clean_kie.py")    
- 
+elif st.button("transform"):
+    st.switch_page("pages/transform_app.py")  
