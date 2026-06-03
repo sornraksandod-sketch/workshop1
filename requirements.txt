@@ -6,4 +6,3 @@ joblib
 plotly
 numpy
 seaborn
-Plotly
