@@ -9,11 +9,11 @@ st.write("Sornrak")
 st.write("##### Day 1: การจัดการข้อมูลพื้นฐานและโครงสร้างข้อมูลด้วย Python")
 st.markdown(''':rainbow[Sornrak] ''')
 
-if st.button("full_clean_kie"):
+if st.button("full_clean"):
     st.switch_page("pages/cute_full_clean_kie.py")
-elif st.button("simple_clean_cute_kie"):
+elif st.button("simple_clean_cute"):
     st.switch_page("pages/simple_clean_cute_kie.py")
-elif st.button("simple_clean_kie"):
+elif st.button("simple_clean"):
     st.switch_page("pages/simple_clean_kie.py")    
 elif st.button("transform"):
     st.switch_page("pages/transform_app.py")  
