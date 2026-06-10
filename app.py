@@ -27,7 +27,7 @@ elif st.button("Best_classify_model"):
     st.switch_page("pages/classify_redbull_sale.py")  
 elif st.button("Clustering_segment"):
     st.switch_page("pages/clustering_segment.py")  
-elif st.button("association_items"):
+elif st.button("Association_items"):
     st.switch_page("pages/association_items.py")  
-elif st.button("association_recommend"):
+elif st.button("Association_recommend"):
     st.switch_page("pages/association_recommend.py")  
