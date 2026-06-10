@@ -25,3 +25,5 @@ elif st.button("Truck_predict"):
     st.switch_page("pages/truck_predict.py")  
 elif st.button("Best_classify_model"):
     st.switch_page("pages/classify_redbull_sale.py")  
+elif st.button("Clustering_segment"):
+    st.switch_page("pages/clustering_segment.py")  
